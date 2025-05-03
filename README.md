@@ -148,6 +148,6 @@ If you use this project in your teaching or research, please consider citing or 
   author       = {Ardy Seto Priambodo},
   title        = {Control System Practicum Jobsheets with Python},
   year         = {2024},
-  howpublished = {\url{https://github.com/your-repo-url}},
+  howpublished = {\url{https://github.com/2black0/Control-System-Practicum-Jobsheets-using-Python}},
 }
 ```
