@@ -1,6 +1,6 @@
 # 📘 Intelligent Control System Practicum Jobsheets using Python
 
-Welcome to the official repository of **Control System Practicum Jobsheets**. This project provides hands-on and beginner-friendly tutorials in Python for university-level students focusing on:
+Welcome to the official repository of **Intelligent Control System Practicum Jobsheets**. This project provides hands-on and beginner-friendly tutorials in Python for university-level students focusing on:
 
 - **Fuzzy Logic Control**
 - **Artificial Neural Networks (ANN)**
